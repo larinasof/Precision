@@ -1,0 +1,13 @@
+  
+Thumbs.db*
+.DS_Store*
+HELP.md
+.gradle
+build/
+target/
+.vscode/
+.idea
+*.iws
+*.iml
+*.ipr
+out/
